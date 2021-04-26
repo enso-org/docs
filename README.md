@@ -26,11 +26,3 @@
 This repository contains scripts that generates HTML docs from Enso Std-Lib.
 Documentation is drawn from
 [here](https://github.com/enso-org/enso/tree/main/distribution/std-lib).
-
-### Running
-
-- Make sure You have Python 3 installed on your system.
-- Using pip get PyExecJS and PyGithub.
-- Go to GitHub, and create new access token. You'll need to provide it.
-- In terminal, go to this project and run script:
-  `python main.py --token=YOUR_GH_TOKEN`
